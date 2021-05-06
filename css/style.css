@@ -1,0 +1,48 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+@import url("components/cards.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+  background-color: #c9d4ca;
+}
+
+h2 {
+  font-family: 'Goblin One', cursive;
+  font-size: 40px;
+  font-weight: 200;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  font-weight: 100;
+  margin-bottom: 0;
+}
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  margin-bottom: 110px;
+  padding: 0 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+.text-center {
+  text-align: center;
+}

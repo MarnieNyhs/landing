@@ -1,0 +1,56 @@
+.button {
+  background-color: #ebebeb;
+  border-radius: 25px;
+  border: 0.5px solid #C9D4CA;
+  color: #6d6d6dbe;
+  padding: 0.8em 1.5em;
+  transition: 0.2s;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+.button:hover {
+  border: 0.5px solid #C9D4CA;
+  background-color: white;
+  color: #525252;
+}
+.card-button {
+  position: absolute;
+  right: 25px;
+  bottom: 20px;
+  background-color: #ebebeb;
+  border-radius: 25px;
+  border: 0.5px solid #6d6d6dbe;
+  color: #6d6d6dbe;
+  padding: 0.8em 1.5em;
+  transition: 0.2s;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+}
+.card-button:hover {
+  border: 0.5px solid #C9D4CA;
+  background-color: #c9d4ca;
+  color: #525252;
+}
+.card-button-buddy {
+  white-space: nowrap;
+  text-align: center;
+  position: absolute;
+  right: 25px;
+  bottom: 20px;
+  background-color: #ebebeb;
+  border-radius: 25px;
+  border: 0.5px solid #6d6d6dbe;
+  color: #6d6d6dbe;
+  padding: 0.8em 1.5em;
+  transition: 0.2s;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+}
+.card-button-buddy:hover {
+  border: 0.5px solid #C9D4CA;
+  background-color: #c9d4ca;
+  color: #525252;
+}
